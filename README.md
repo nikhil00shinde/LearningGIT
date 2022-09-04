@@ -1,6 +1,9 @@
-# Git RESET
+# Git checkout/Stash
 
-- git reset HEAD `<filename>`
-- git reset --soft 
-- git reset --mixed
-- git reset --hard
+modified -> unmodified
+
+- git checkout -- `<filename>`
+
+- git stash
+- git stash pop
+- git stash clear
