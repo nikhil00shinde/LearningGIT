@@ -1,2 +1,4 @@
 Hello Everyone welcome to the series GIT
 Hakuna tata
+hello amend
+another line
